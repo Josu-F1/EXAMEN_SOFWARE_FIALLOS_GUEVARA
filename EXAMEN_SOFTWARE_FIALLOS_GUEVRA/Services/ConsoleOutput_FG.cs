@@ -3,6 +3,7 @@ using EXAMEN_SOFTWARE_FIALLOS_GUEVRA.Models;
 
 namespace EXAMEN_SOFTWARE_FIALLOS_GUEVRA.Services
 {
+    // SRP: Solo se encarga de mostrar el resultado en consola
     public class ConsoleOutput_FG : IOutput_FG
     {
         public void ShowResult_FG(PaymentResult_FG result)

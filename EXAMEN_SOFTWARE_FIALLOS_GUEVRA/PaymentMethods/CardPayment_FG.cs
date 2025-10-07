@@ -2,12 +2,15 @@
 
 namespace EXAMEN_SOFTWARE_FIALLOS_GUEVRA.PaymentMethods
 {
+    // SRP: Esta clase se encarga solo de procesar pagos con tarjeta
+    // OCP: Podemos agregar más métodos de pago sin modificar esta clase, solo extendiendo la interfaz.
+    // LSP: Las clases derivadas pueden sustituir a sus clases padre
     public class CardPayment_FG : IPaymentMethod_FG
     {
         public string ProcessPayment_FG(decimal amount, string user)
         {
             
-            return $"Card payment of {amount:C} for user {user} processed successfully.";
+            return $"Card payment of {amount} for user {user} processed successfully.";
         }
     }
 }

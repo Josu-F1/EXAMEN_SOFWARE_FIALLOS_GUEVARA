@@ -2,8 +2,10 @@
 
 namespace EXAMEN_SOFTWARE_FIALLOS_GUEVRA.Notifications
 {
-    internal class SMSNotification_FG : INotificationChannel_FG
+    public class SMSNotification_FG : INotificationChannel_FG
     {
+        //SRP:IMPLEMENTA LA INTERFAZ Y LE DA EL COMPTARMIENTO DEL METODO COMO NOTIFICACION DE SMS
+        // LSP: Las clases derivadas pueden sustituir a sus clases padre
         public string SendNotification_FG(string message, string user)
         {
             return $"SMS notification to {user}: {message}";

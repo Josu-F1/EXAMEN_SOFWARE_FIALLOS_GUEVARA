@@ -3,6 +3,10 @@ using EXAMEN_SOFTWARE_FIALLOS_GUEVRA.Models;
 
 namespace EXAMEN_SOFTWARE_FIALLOS_GUEVRA.Services
 {
+
+    // SRP: Coordina el procesamiento del pago y el envío de notificaciones
+    // OCP: Permite agregar nuevos métodos de pago y canales de notificación sin modificar este código
+    // DIP: El PaymentProcessor depende de interfaces (abstracciones) en lugar de clases concretas
     public class PaymentProcessor_FG
     {
         private readonly IPaymentMethod_FG[] _paymentMethods;
