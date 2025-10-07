@@ -1,13 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using EXAMEN_SOFTWARE_FIALLOS_GUEVRA.Interfaces;
 
 namespace EXAMEN_SOFTWARE_FIALLOS_GUEVRA.Notifications
 {
-    internal class EmailNotification_FG
+    internal class EmailNotification_FG : INotificationChannel_FG
     {
-
+        public string SendNotification_FG(string message, string user)
+        {
+            return $"Email notification to {user}: {message}";
+        }
     }
 }

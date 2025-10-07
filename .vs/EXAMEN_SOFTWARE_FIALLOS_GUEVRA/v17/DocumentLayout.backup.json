@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|c:\\users\\asus\\source\\repos\\examen_software_fiallos_guevra\\examen_software_fiallos_guevra\\paymentmethods\\transferpayment_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|solutionrelative:examen_software_fiallos_guevra\\paymentmethods\\transferpayment_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|c:\\users\\asus\\source\\repos\\examen_software_fiallos_guevra\\examen_software_fiallos_guevra\\paymentmethods\\cashpayment_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|solutionrelative:examen_software_fiallos_guevra\\paymentmethods\\cashpayment_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|c:\\users\\asus\\source\\repos\\examen_software_fiallos_guevra\\examen_software_fiallos_guevra\\paymentmethods\\cardpayment_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|solutionrelative:examen_software_fiallos_guevra\\paymentmethods\\cardpayment_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|c:\\users\\asus\\source\\repos\\examen_software_fiallos_guevra\\examen_software_fiallos_guevra\\models\\paymentresult_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|solutionrelative:examen_software_fiallos_guevra\\models\\paymentresult_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|c:\\users\\asus\\source\\repos\\examen_software_fiallos_guevra\\examen_software_fiallos_guevra\\interfaces\\ipaymentmethod_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|solutionrelative:examen_software_fiallos_guevra\\interfaces\\ipaymentmethod_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|c:\\users\\asus\\source\\repos\\examen_software_fiallos_guevra\\examen_software_fiallos_guevra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|solutionrelative:examen_software_fiallos_guevra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|c:\\users\\asus\\source\\repos\\examen_software_fiallos_guevra\\examen_software_fiallos_guevra\\services\\paymentprocessor_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|solutionrelative:examen_software_fiallos_guevra\\services\\paymentprocessor_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|c:\\users\\asus\\source\\repos\\examen_software_fiallos_guevra\\examen_software_fiallos_guevra\\notifications\\whatsappnotification_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|solutionrelative:examen_software_fiallos_guevra\\notifications\\whatsappnotification_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|c:\\users\\asus\\source\\repos\\examen_software_fiallos_guevra\\examen_software_fiallos_guevra\\models\\payment_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,24 +31,12 @@
       "RelativeMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|solutionrelative:examen_software_fiallos_guevra\\interfaces\\inotificationchannel_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|c:\\users\\asus\\source\\repos\\examen_software_fiallos_guevra\\examen_software_fiallos_guevra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|solutionrelative:examen_software_fiallos_guevra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|c:\\users\\asus\\source\\repos\\examen_software_fiallos_guevra\\examen_software_fiallos_guevra\\services\\consoleoutput_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|solutionrelative:examen_software_fiallos_guevra\\services\\consoleoutput_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|c:\\users\\asus\\source\\repos\\examen_software_fiallos_guevra\\examen_software_fiallos_guevra\\services\\paymentprocessor_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|solutionrelative:examen_software_fiallos_guevra\\services\\paymentprocessor_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|c:\\users\\asus\\source\\repos\\examen_software_fiallos_guevra\\examen_software_fiallos_guevra\\examen_software_fiallos_guevra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|solutionrelative:examen_software_fiallos_guevra\\examen_software_fiallos_guevra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|c:\\users\\asus\\source\\repos\\examen_software_fiallos_guevra\\examen_software_fiallos_guevra\\notifications\\whatsappnotification_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|solutionrelative:examen_software_fiallos_guevra\\notifications\\whatsappnotification_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|c:\\users\\asus\\source\\repos\\examen_software_fiallos_guevra\\examen_software_fiallos_guevra\\models\\paymentresult_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|solutionrelative:examen_software_fiallos_guevra\\models\\paymentresult_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|c:\\users\\asus\\source\\repos\\examen_software_fiallos_guevra\\examen_software_fiallos_guevra\\notifications\\smsnotification_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,6 +45,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|c:\\users\\asus\\source\\repos\\examen_software_fiallos_guevra\\examen_software_fiallos_guevra\\notifications\\emailnotification_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|solutionrelative:examen_software_fiallos_guevra\\notifications\\emailnotification_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|c:\\users\\asus\\source\\repos\\examen_software_fiallos_guevra\\examen_software_fiallos_guevra\\paymentmethods\\transferpayment_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|solutionrelative:examen_software_fiallos_guevra\\paymentmethods\\transferpayment_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|c:\\users\\asus\\source\\repos\\examen_software_fiallos_guevra\\examen_software_fiallos_guevra\\paymentmethods\\cashpayment_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|solutionrelative:examen_software_fiallos_guevra\\paymentmethods\\cashpayment_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|c:\\users\\asus\\source\\repos\\examen_software_fiallos_guevra\\examen_software_fiallos_guevra\\paymentmethods\\cardpayment_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|solutionrelative:examen_software_fiallos_guevra\\paymentmethods\\cardpayment_fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|c:\\users\\asus\\source\\repos\\examen_software_fiallos_guevra\\examen_software_fiallos_guevra\\examen_software_fiallos_guevra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FDEBA5F9-AD28-4328-8D52-1512B2712E72}|EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj|solutionrelative:examen_software_fiallos_guevra\\examen_software_fiallos_guevra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,30 +70,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IOutput_FG.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Interfaces\\IOutput_FG.cs",
-              "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Interfaces\\IOutput_FG.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Interfaces\\IOutput_FG.cs",
-              "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Interfaces\\IOutput_FG.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "PaymentProcessor_FG.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Services\\PaymentProcessor_FG.cs",
+              "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Services\\PaymentProcessor_FG.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Services\\PaymentProcessor_FG.cs",
+              "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Services\\PaymentProcessor_FG.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T15:37:13.833Z",
+              "WhenOpened": "2025-10-07T15:44:31.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Payment_FG.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Models\\Payment_FG.cs",
+              "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Models\\Payment_FG.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Models\\Payment_FG.cs",
+              "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Models\\Payment_FG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:39:38.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "INotificationChannel_FG.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Interfaces\\INotificationChannel_FG.cs",
+              "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Interfaces\\INotificationChannel_FG.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Interfaces\\INotificationChannel_FG.cs",
+              "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Interfaces\\INotificationChannel_FG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:36:44.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "IPaymentMethod_FG.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Interfaces\\IPaymentMethod_FG.cs",
               "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Interfaces\\IPaymentMethod_FG.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Interfaces\\IPaymentMethod_FG.cs",
               "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Interfaces\\IPaymentMethod_FG.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T15:35:57.594Z",
               "EditorCaption": ""
@@ -101,19 +127,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Payment_FG.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Models\\Payment_FG.cs",
-              "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Models\\Payment_FG.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Models\\Payment_FG.cs",
-              "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Models\\Payment_FG.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Title": "IOutput_FG.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Interfaces\\IOutput_FG.cs",
+              "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Interfaces\\IOutput_FG.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Interfaces\\IOutput_FG.cs",
+              "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Interfaces\\IOutput_FG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAACVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T15:39:38.345Z",
+              "WhenOpened": "2025-10-07T15:37:13.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "WhatsAppNotification_FG.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Notifications\\WhatsAppNotification_FG.cs",
+              "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Notifications\\WhatsAppNotification_FG.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Notifications\\WhatsAppNotification_FG.cs",
+              "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Notifications\\WhatsAppNotification_FG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:41:45.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Program.cs",
+              "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Program.cs",
+              "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:27:58.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsoleOutput_FG.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Services\\ConsoleOutput_FG.cs",
+              "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Services\\ConsoleOutput_FG.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Services\\ConsoleOutput_FG.cs",
+              "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Services\\ConsoleOutput_FG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:44:49.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PaymentResult_FG.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Models\\PaymentResult_FG.cs",
               "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Models\\PaymentResult_FG.cs",
@@ -126,130 +191,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CardPayment_FG.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\CardPayment_FG.cs",
-              "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\CardPayment_FG.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\CardPayment_FG.cs",
-              "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\CardPayment_FG.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T15:43:17.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CashPayment_FG.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\CashPayment_FG.cs",
-              "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\CashPayment_FG.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\CashPayment_FG.cs",
-              "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\CashPayment_FG.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T15:43:41.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TransferPayment_FG.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\TransferPayment_FG.cs",
-              "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\TransferPayment_FG.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\TransferPayment_FG.cs",
-              "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\TransferPayment_FG.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T15:43:58.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "INotificationChannel_FG.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Interfaces\\INotificationChannel_FG.cs",
-              "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Interfaces\\INotificationChannel_FG.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Interfaces\\INotificationChannel_FG.cs",
-              "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Interfaces\\INotificationChannel_FG.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T15:36:44.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Program.cs",
-              "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Program.cs",
-              "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T15:27:58.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ConsoleOutput_FG.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Services\\ConsoleOutput_FG.cs",
-              "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Services\\ConsoleOutput_FG.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Services\\ConsoleOutput_FG.cs",
-              "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Services\\ConsoleOutput_FG.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T15:44:49.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PaymentProcessor_FG.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Services\\PaymentProcessor_FG.cs",
-              "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Services\\PaymentProcessor_FG.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Services\\PaymentProcessor_FG.cs",
-              "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Services\\PaymentProcessor_FG.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T15:44:31.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "WhatsAppNotification_FG.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Notifications\\WhatsAppNotification_FG.cs",
-              "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Notifications\\WhatsAppNotification_FG.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Notifications\\WhatsAppNotification_FG.cs",
-              "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Notifications\\WhatsAppNotification_FG.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T15:41:45.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "SMSNotification_FG.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Notifications\\SMSNotification_FG.cs",
               "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Notifications\\SMSNotification_FG.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Notifications\\SMSNotification_FG.cs",
               "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Notifications\\SMSNotification_FG.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T15:41:28.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 10,
               "Title": "EmailNotification_FG.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Notifications\\EmailNotification_FG.cs",
               "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Notifications\\EmailNotification_FG.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Notifications\\EmailNotification_FG.cs",
               "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\Notifications\\EmailNotification_FG.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T15:40:29.039Z",
               "EditorCaption": ""
@@ -257,15 +218,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA",
+              "Title": "TransferPayment_FG.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\TransferPayment_FG.cs",
+              "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\TransferPayment_FG.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\TransferPayment_FG.cs",
+              "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\TransferPayment_FG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:43:58.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CashPayment_FG.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\CashPayment_FG.cs",
+              "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\CashPayment_FG.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\CashPayment_FG.cs",
+              "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\CashPayment_FG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:43:41.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CardPayment_FG.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\CardPayment_FG.cs",
+              "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\CardPayment_FG.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\CardPayment_FG.cs",
+              "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\PaymentMethods\\CardPayment_FG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:43:17.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj",
               "RelativeDocumentMoniker": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj",
               "RelativeToolTip": "EXAMEN_SOFTWARE_FIALLOS_GUEVRA\\EXAMEN_SOFTWARE_FIALLOS_GUEVRA.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-07T15:33:38.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T15:33:38.622Z"
             },
             {
               "$type": "Bookmark",

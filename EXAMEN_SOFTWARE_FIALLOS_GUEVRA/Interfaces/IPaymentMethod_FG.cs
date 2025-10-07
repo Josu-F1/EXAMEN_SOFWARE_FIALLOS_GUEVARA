@@ -4,6 +4,8 @@ namespace EXAMEN_SOFTWARE_FIALLOS_GUEVRA.Interfaces
 {
     public interface IPaymentMethod_FG
     {
-       string ProcessPayment_FG(decimal amount, string user);
+        //PRINCIPIO SOLID: SLP : CADA INTERFAZ TIENE UNA SOLA RESPONSABILIDAD, METODO QUE SE ENCARGA DE HACER EL CONTRATO PARA EL PROCESO DE PAGO
+        //PRINCIPIO SOLID : OCP : ABIERTO PARA EXTENSIONES Y CERRADO PARA MODIFICACIONES , SE PUEDE AGREGAR NUEVOS METODOS DE PAGO SIN MODIFCAR ESTA INTERFAZ
+        string ProcessPayment_FG(decimal amount, string user);
     }
 }

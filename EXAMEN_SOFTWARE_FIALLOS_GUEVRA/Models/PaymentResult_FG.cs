@@ -2,7 +2,7 @@
 {
     public class PaymentResult_FG
     {
-        public string _sumary { get; set; }
+        public string _summary { get; set; }
         public string[] _sentNotifications { get; set; }
     }
 }
