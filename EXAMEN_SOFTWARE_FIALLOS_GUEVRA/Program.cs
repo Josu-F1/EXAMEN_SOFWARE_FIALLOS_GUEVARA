@@ -6,14 +6,17 @@ using EXAMEN_SOFTWARE_FIALLOS_GUEVRA.Services;
 
 namespace EXAMEN_SOFTWARE_FIALLOS_GUEVRA
 {
-    //// SRP cada clase tiene una única responsabilidad
-    /// OCP se pueden agregar nuevos métodos de pago o notificaciones sin modificar este código
+    // SRP cada clase tiene una única responsabilidad que es cordinar el flujo del programa
+    // OCP: El programa está abierto a la extensión (nuevos métodos de pago y canales de notificación) pero cerrado a la modificación
+    // LSP: Las clases derivadas (métodos de pago y canales de notificación) pueden sustituir a sus clases base sin alterar el correcto funcionamiento del programa
+
+
     public class Program
     {
         static void Main(string[] args)
 
         {
-            // Inyección de dependencias manual
+            
             IPaymentMethod_FG[] paymentMethods = {
                 new CardPayment_FG(),
                 new CashPayment_FG(),
@@ -41,8 +44,6 @@ namespace EXAMEN_SOFTWARE_FIALLOS_GUEVRA
                 output.ShowResult_FG(result);
             }
 
-            Console.WriteLine("\nPresione una tecla para salir...");
-            Console.ReadKey();
 
         }
     }

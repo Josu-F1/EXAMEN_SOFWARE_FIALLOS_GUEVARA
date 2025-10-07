@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EXAMEN_SOFTWARE_FIALLOS_GUEVRA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d99a1730a2b4a099d6aaf273f202f2119379d49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57dd5d3dd2fd0fa07502905dcb7f36593929c0ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("EXAMEN_SOFTWARE_FIALLOS_GUEVRA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EXAMEN_SOFTWARE_FIALLOS_GUEVRA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
